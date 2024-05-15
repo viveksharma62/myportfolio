@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I'm currently doing B.Tech Computer Engineering  From Marwadi University Rajkot Gujarat
             <br />
-            I am currently in my 4<sup>th</sup> Semester .
+            {/* I am currently in my 4<sup>th</sup> Semester . */}
             <br />
               I am interested in becoming a successfull full stack web developer
               <br/>
